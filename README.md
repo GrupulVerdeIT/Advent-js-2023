@@ -34,34 +34,34 @@ Toate resusrele disponiblie aici: [Advent JS](https://adventjs.dev/)
 | <img src="https://i.imgur.com/5E0rjbV.png" width="50" height="50" /> | 18  |             Am terminat cerneala!              |       🟢       | [Ver](https://adventjs.dev/challenges/2022/18) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-18) |            NO DISPONIBLE            |
 | <img src="https://i.imgur.com/hbBuJZH.png" width="50" height="50" /> | 19  |               Sortarea cadourilor               |       🟢       | [Ver](https://adventjs.dev/challenges/2022/19) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-19) |            NO DISPONIBLE            |
 | <img src="https://i.imgur.com/YWBwVY2.png" width="50" height="50" /> | 20  |       Călătorii mai provocatoare                |       🔴       | [Ver](https://adventjs.dev/challenges/2022/20) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-20) |            NO DISPONIBLE            |
-| <img src="https://i.imgur.com/9eyxAFH.png" width="50" height="50" /> | 21  |            Creando la tabla de regalos            |       🟠       | [Ver](https://adventjs.dev/challenges/2022/21) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-21) |            NO DISPONIBLE            |
-| <img src="https://i.imgur.com/sANx7vo.png" width="50" height="50" /> | 22  |            La iluminación en sintonía             |       🟢       | [Ver](https://adventjs.dev/challenges/2022/22) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-22) |            NO DISPONIBLE            |
-| <img src="https://i.imgur.com/8UEEMyH.png" width="50" height="50" /> | 23  |              Compilador de Papá Noel              |       🔴       | [Ver](https://adventjs.dev/challenges/2022/23) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-23) |            NO DISPONIBLE            |
-| <img src="https://i.imgur.com/FmXcVms.png" width="50" height="50" /> | 24  |           El último reto es un laberito           |       🔴       | [Ver](https://adventjs.dev/challenges/2022/24) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-24) |            NO DISPONIBLE            |
+| <img src="https://i.imgur.com/9eyxAFH.png" width="50" height="50" /> | 21  |            Crearea mesei de cadouri           |       🟠       | [Ver](https://adventjs.dev/challenges/2022/21) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-21) |            NO DISPONIBLE            |
+| <img src="https://i.imgur.com/sANx7vo.png" width="50" height="50" /> | 22  |            Iluminare în ton             |       🟢       | [Ver](https://adventjs.dev/challenges/2022/22) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-22) |            NO DISPONIBLE            |
+| <img src="https://i.imgur.com/8UEEMyH.png" width="50" height="50" /> | 23  |              Compilator de mos craciun              |       🔴       | [Ver](https://adventjs.dev/challenges/2022/23) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-23) |            NU ESTE DISPONIBIL            |
+| <img src="https://i.imgur.com/FmXcVms.png" width="50" height="50" /> | 24  |           Ultima provocare este un labirint           |       🔴       | [Ver](https://adventjs.dev/challenges/2022/24) | [Spoiler](https://github.com/Achalogy/advent-js-2022/tree/main/retos/reto-24) |            NO DISPONIBLE            |
 
-[^1]: **Dificultad**: 🟢 Facil 🟠 Media 🔴 Dificil 🟣 Muy Dificil
+[^1]: **Dificultate**: 🟢 Ușor 🟠 Mediu 🔴 Greu 🟣 Foarte dificil
 
-## ⌨️ | Instalación
+## ⌨️ | Facilitate
 
-Instala Jest para las pruebas con:
+Instalați Jest pentru testare cu:
 
 `npm install`
 
-## 🧪 | Tests
+## 🧪 | Teste
 
-Puedes comprobar los retos usando en tu terminal el comando `npm run jest`.
-Si quieres probar tus propios scripts, tienes dos opciones:
+Puteți verifica provocările folosind comanda `npm run jest` din terminalul dvs.
+Dacă doriți să vă testați propriile scripturi, aveți două opțiuni:
 
-1. Cambiar de nombre el archivo `index.js` y crear tu propio `index.js`
-2. Comentar la función en el archivo `index.js` y crear tu propia función
+1. Redenumiți fișierul `index.js` și creați-vă propriul `index.js`
+2. Comentați funcția din fișierul `index.js` și creați-vă propria funcție
 
 ```bash
-npm run test # Para correr todos los test de todos los retos
+npm run test # Pentru a rula toate testele pentru toate provocările
 
-npm run test:n # n siendo el numero del reto, por ejemplo
-npm run test:1 # Correra el test del reto 1
+npm run test:n # n fiind numărul provocării, de exemplu
+npm run test:1 # Testul Challenge 1 va fi rulat
 ```
 
-## Achalogy
+## Ahalogie
 
-Soy un estudiante de Ingeniería de Sistemas Colombiano, espero te haya gustado este repositorio y si eres un estudiante también y estás aprendiendo programación, te dejo este repositorio con algunos conceptos que aprendí en la comunidad de Midudev mientras desarrollaba el Adviento navideño de 2022.
+Sunt un voluntari ai Asociațtie Grupul Verde si ingineri de sisteme. Sper că ți-a plăcut acest depozit și dacă și tu ești student și înveți programare, vă las acest depozit cu câteva concepte pe care le-am învățat în comunitatea The Technology Hub RO  în timp ce dezvoltam Christmas Advent 2023.
