@@ -1,4 +1,4 @@
-# 🌟 | Advent JS - Achalogy
+# 🌟 | Advent JS - @Grupul Verde 
 
 Por favor dale a la estrellita y sígueme en YouTube y mis redes, este repositorio me ha costado demasiadas horas de trabajo:
 
