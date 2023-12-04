@@ -1,6 +1,6 @@
-# 🌟 | Advent JS - @Grupul Verde 
+# 🌟 | Advent JS 2023 - @GrupulVerde 
 
-Dați clic pe:
+Sunt un voluntari ai Asociațtie Grupul Verde si ingineri de sisteme. Sper că ți-a plăcut acest depozit și dacă și tu ești student și înveți programare, vă las acest depozit cu câteva concepte pe care le-am învățat în comunitatea The Technology Hub RO în timp ce dezvoltam Christmas Advent 2023.
 
 <div align="center">
 <a href="https://wakatime.com/badge/user/dfad5e3e-d673-48d4-a2d9-29c1c546ed80/project/13d232f7-5f61-455e-9881-ad9601346286"><img src="https://wakatime.com/badge/user/dfad5e3e-d673-48d4-a2d9-29c1c546ed80/project/13d232f7-5f61-455e-9881-ad9601346286.svg" alt="wakatime"></a>
